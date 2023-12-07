@@ -1,0 +1,51 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Eternal Enigma",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animationskurven","folderPath":"folders/Animationskurven.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Erweiterungen","folderPath":"folders/Erweiterungen.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notizen","folderPath":"folders/Notizen.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objekte","folderPath":"folders/Objekte.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Pfade","folderPath":"folders/Pfade.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Räume","folderPath":"folders/Räume.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Schriftarten","folderPath":"folders/Schriftarten.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequenzen","folderPath":"folders/Sequenzen.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader","folderPath":"folders/Shader.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Skripte","folderPath":"folders/Skripte.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tilesets","folderPath":"folders/Tilesets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zeitlinien","folderPath":"folders/Zeitlinien.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.0.121",
+  },
+  "resources": [
+    {"id":{"name":"sGrass_Ground","path":"sprites/sGrass_Ground/sGrass_Ground.yy",},},
+    {"id":{"name":"sMain_Char","path":"sprites/sMain_Char/sMain_Char.yy",},},
+    {"id":{"name":"obj_grass_ground","path":"objects/obj_grass_ground/obj_grass_ground.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"obj_main_char","path":"objects/obj_main_char/obj_main_char.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

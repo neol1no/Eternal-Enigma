@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animationskurven","order":12,"path":"folders/Animationskurven.yy",},
+    {"name":"Erweiterungen","order":14,"path":"folders/Erweiterungen.yy",},
+    {"name":"Notizen","order":13,"path":"folders/Notizen.yy",},
+    {"name":"Objekte","order":9,"path":"folders/Objekte.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Pfade","order":4,"path":"folders/Pfade.yy",},
+    {"name":"Räume","order":10,"path":"folders/Räume.yy",},
+    {"name":"Schriftarten","order":7,"path":"folders/Schriftarten.yy",},
+    {"name":"Sequenzen","order":11,"path":"folders/Sequenzen.yy",},
+    {"name":"Shader","order":6,"path":"folders/Shader.yy",},
+    {"name":"Skripte","order":5,"path":"folders/Skripte.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tilesets","order":2,"path":"folders/Tilesets.yy",},
+    {"name":"Zeitlinien","order":8,"path":"folders/Zeitlinien.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sGrass_Ground","order":1,"path":"sprites/sGrass_Ground/sGrass_Ground.yy",},
+    {"name":"obj_grass_ground","order":1,"path":"objects/obj_grass_ground/obj_grass_ground.yy",},
+    {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
+  ],
+}
