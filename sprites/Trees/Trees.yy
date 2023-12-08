@@ -1,26 +1,26 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sGrass_Ground",
-  "bbox_bottom": 63,
+  "name": "Trees",
+  "bbox_bottom": 350,
   "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_right": 232,
   "bbox_top": 0,
   "bboxMode": 0,
-  "collisionKind": 5,
+  "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"37f0c52f-7a6a-4862-84ce-dd1122a271c7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bec9e8aa-7bef-40cf-92e1-73d9bf6c4708",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 352,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bd768307-6840-4537-9cf8-917116bc251d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b66ebc17-7d54-47e6-a5e8-c12b62d78559","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sGrass_Ground",
+    "name": "Trees",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"37f0c52f-7a6a-4862-84ce-dd1122a271c7","path":"sprites/sGrass_Ground/sGrass_Ground.yy",},},},"Disabled":false,"id":"527cf42a-71f2-4df0-9089-3c3014d3bbc0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bec9e8aa-7bef-40cf-92e1-73d9bf6c4708","path":"sprites/Trees/Trees.yy",},},},"Disabled":false,"id":"9c38fee6-ddea-4307-918b-eaed1920e109","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 240,
 }
