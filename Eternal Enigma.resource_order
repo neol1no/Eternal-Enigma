@@ -17,8 +17,13 @@
     {"name":"Zeitlinien","order":8,"path":"folders/Zeitlinien.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_main_char_run","order":2,"path":"objects/obj_main_char_run/obj_main_char_run.yy",},
+    {"name":"sMage_run_right","order":5,"path":"sprites/sMage_run_right/sMage_run_right.yy",},
+    {"name":"sMage_run_left","order":6,"path":"sprites/sMage_run_left/sMage_run_left.yy",},
+    {"name":"Backup","order":3,"path":"sprites/Backup/Backup.yy",},
     {"name":"sGrass_Ground","order":1,"path":"sprites/sGrass_Ground/sGrass_Ground.yy",},
     {"name":"obj_grass_ground","order":1,"path":"objects/obj_grass_ground/obj_grass_ground.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sMage_Idle","order":4,"path":"sprites/sMage_Idle/sMage_Idle.yy",},
   ],
 }

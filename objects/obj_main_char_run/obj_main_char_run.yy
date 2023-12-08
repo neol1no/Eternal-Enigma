@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_char",
+  "name": "obj_main_char_run",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sMage_Idle",
-    "path": "sprites/sMage_Idle/sMage_Idle.yy",
+    "name": "Backup",
+    "path": "sprites/Backup/Backup.yy",
   },
   "spriteMaskId": null,
   "visible": true,
